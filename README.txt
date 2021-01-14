@@ -1,3 +1,6 @@
+
+Unzip the assignment 2 and image folders before running the file.
+
 Design Choices:
 
 I had to make some changes to the main idea of the game since I submitted milestone 1. Instead of having different types of powerups as the vehicles
