@@ -7,7 +7,7 @@ I had to make some changes to the main idea of the game since I submitted milest
 I learned that doing so would take away from the main "idea" of the game as described in the specifications (this was cleared up by Skyler and then Robert).
 
 So, the main vehicles are bats that the player can take control of to move their player around. I believe that I managed to stick to the main theme
-of overcoming challenges with vehicles I described in milestone 1. Also, I removed larks entirely because they did not really fit in my theme. Instead I
+of overcoming challenges with vehicles. Also, I removed larks entirely because they did not really fit in my theme. Instead I
 added terrain based obstacles such as lava, spikes and fan's that serve as challenges to the player.
 
 Lastly I didnt have the opportunity to add sound effects or music (unfortunately), I could not get it working in the time we were allotted. 
